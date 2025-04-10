@@ -1,7 +1,17 @@
+# Draw, Detect, Navigate
 # MSAAI Capstone Project
 This project is a part of the AAI-590 course in the Applied Artificial Intelligence Program at the University of San Diego (USD).
 
 **-- Project Status: Active**
+
+## Project Intro/Objective
+
+This project creates and uses synthetically generated data comprised of drawings from the Quick, Draw! dataset identify not only the class of the doodle, but also the bounding box. A subset of 12 classes from the original data is used. An original convolutional neural network was used, as well as fine-tuned editions of Pytorch's Faster R-CNN and Ultralytics YOLOv8 models were explored and evaluated, with YOLOv8 selected due to its real time usage capabilities and support in the Sentis package of the Unity game engine. The exported model is included in a desktop application built with Unity using webcam data to detect and classify pictograms, place augmented reality 3d models of pictograms through the use of Aruco anchors through OpenCV, space is decomposed into a connected grid of nodes, and A* pathfinding is used to navigate the optimal path from the most recent detected helicopter to the most recent detected hospital.
+
+### Goals:
+
+- Determine feasibility drawing bounding box detection and classification with models suitable for real-time use and AR applications
+
 
 - ### Partner(s)/Contributor(s)
    * Elan Wilkinson
