@@ -9,7 +9,7 @@ This project is a part of the AAI-590 course in the Applied Artificial Intellige
    * Gabriel Emanuel Colón
    * Parker Christenson
 
-[Live Use](materials/drawDetectNav.gif)
+![Live Use](materials/drawDetectNav.gif)
 
 ## Installation
 To use this project, first clone the repo on your device using the command below:
