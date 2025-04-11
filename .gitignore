@@ -3,3 +3,7 @@ doodle-dataset/
 doodle-dataset.zip
 SynthDoodleData/
 yolo_dataset/
+yolo11n.pt
+yolov8n.pt
+dominic_yolo_runs/
+runs/
