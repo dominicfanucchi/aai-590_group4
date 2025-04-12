@@ -11,6 +11,11 @@ This project creates and uses synthetically generated data comprised of drawings
 ### Goals:
 
 - Determine feasibility drawing bounding box detection and classification with models suitable for real-time use and AR applications
+- Adapt data as needed for detection of multiple drawings per image with bounding boxes
+- Verify results on real world data with imperfect camera angles, lighting, line thickness, etcetera
+- Determine optimal approaches
+- Combine best-performing model with augmented reality technologies to combine 2D and 3D data, placing 3D models over drawings
+- Use A* to determine optimal paths from start (helicopter) to destination (hospital) routing aroudn obstacles, all placed by drawings to demonstrate an example of more complex interactions facilitated by the the combination of imagle classification, image spatial relationships, and augmented reality
 
 
 - ### Partner(s)/Contributor(s)
