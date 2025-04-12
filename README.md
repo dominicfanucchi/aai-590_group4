@@ -1,6 +1,6 @@
 # Draw, Detect, Navigate
-# MSAAI Capstone Project
-This project is a part of the AAI-590 course in the Applied Artificial Intelligence Program at the University of San Diego (USD).
+
+## Team 4 AAI-590: Capstone Project
 
 **-- Project Status: Active**
 
@@ -18,13 +18,17 @@ This project creates and uses synthetically generated data comprised of drawings
 - Use A* to determine optimal paths from start (helicopter) to destination (hospital) routing aroudn obstacles, all placed by drawings to demonstrate an example of more complex interactions facilitated by the the combination of imagle classification, image spatial relationships, and augmented reality
 
 
-- ### Partner(s)/Contributor(s)
-   * Elan Wilkinson
-   * Dominic Fanucchi
-   * Gabriel Emanuel Colón
-   * Parker Christenson
+### Partner(s)/Contributor(s)
+   - **Elan Wilkinson**
+   - **Dominic Fanucchi**
+   - **Gabriel Emanuel Colón**
+   - **Parker Christenson**
 
 ![Live Use](materials/drawDetectNav.gif)
+
+ **Programming Languages:** 
+- Python
+- C#
 
 ## Installation
 To use this project, first clone the repo on your device using the command below:
