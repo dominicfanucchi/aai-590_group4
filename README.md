@@ -30,6 +30,10 @@ This project creates and uses synthetically generated data comprised of drawings
 - Python
 - C#
 
+ **Models and Libraries:** 
+  - Model Types Used: CNN, FASTER R-CNN, YOLO
+  - Libraries: Numpy, Pandas, PyTorch, MatPlotLib, Ultralytics, AST, Albumentations, Torchvision, SKLearn
+
 ## Installation
 To use this project, first clone the repo on your device using the command below:
 ```bash
