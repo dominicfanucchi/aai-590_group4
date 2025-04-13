@@ -30,6 +30,10 @@ This project creates and uses synthetically generated data comprised of drawings
 - Python
 - C#
 
+ **Models and Libraries:** 
+  - Model Types Used: CNN, FASTER R-CNN, YOLO
+  - Libraries: Numpy, Pandas, PyTorch, MatPlotLib, Ultralytics, AST, Albumentations, Torchvision, SKLearn
+
 ## Installation
 To use this project, first clone the repo on your device using the command below:
 ```bash
@@ -37,9 +41,8 @@ git init
 git clone https://github.com/dominicfanucchi/aai-590_group4.git
 ```
 
-## Project Objective
-
 ## About the Dataset
+Early models trained directly on raw and augmented images from the *Quick, Draw!* dataset from Google Creative Lab.
 
 ## Approach
 The specific algorithms and networks used were as follows: 
@@ -62,7 +65,7 @@ The project relies on the following libraries and packages:
 ## References
 
 ## Acknowledgments
-We would like to express our sincere gratitude to... 
+Our thanks and appreciation go to our professor **Roozbeh Sadeghian**  and to **Google Creative Lab** for the use of the *Quick, Draw!* dataset.
 
 ## License
 This dataset is licensed under a [CC0 1.0 DEED license](https://creativecommons.org/publicdomain/zero/1.0/legalcode.en) - see the [Creative Commons](https://creativecommons.org/publicdomain/zero/1.0/legalcode.en) website for details.
